@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on completing my B.S. in Mathematics-Computer Science.
+- 🌱 I’m currently learning Python and Java.
+- 👯 I’m looking to collaborate on software egineering and or cybersecurity projects.
+- 📫 How to reach me: reynamaharaj7@gmail.com
+- ⚡ Fun fact: I am learning French 
 
 <!--
 **reynamarie/reynamarie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
