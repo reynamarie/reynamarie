@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on completing a minor in Computer Science.
+- 🔭 I’m currently working on completing a major in mathematics and Computer Science.
 - 🌱 I’m currently working on advancing my skills in Python and Java.
 - 📫 How to reach me: reynamaharaj7@gmail.com
 - ⚡ Fun fact: I am learning French 
